@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    display: grid;
+    place-content: center;
+    text-align: center;
+    background-color: slategrey;
+}
+#canvas{
+    background-color: powderblue;
+    border: 6px solid lightgreen;
+}
