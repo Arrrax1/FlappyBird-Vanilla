@@ -1,11 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=McLaren&family=Nunito&family=Rubik+Pixels&family=Orbitron&display=swap');
 body{
     margin: 0;
     display: grid;
     place-content: center;
     text-align: center;
     background-color: slategrey;
+    font-family: 'Orbitron', monospace;
+    color: whitesmoke;
 }
-#canvas{
-    background-color: powderblue;
-    border: 6px solid lightgreen;
-}
+#canvas{border: 6px solid lightgreen;}
